@@ -28,3 +28,4 @@ class Count(Road):
 
 r = Count(25, 10000, 125)
 print(r.mass())
+
